@@ -1,4 +1,2 @@
-# bloco-discografia >> README.md
-echo # bloco-discografia >> README.md
-echo # bloco-discografia
 # bloco-discografia
+Bloco desenvolvido para o Gutenbergo do Wordpress.
