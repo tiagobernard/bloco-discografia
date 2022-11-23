@@ -3,7 +3,7 @@ Bloco desenvolvido para o Gutenbergo do Wordpress.
 
 ## Desenvolvimento
 Esse bloco foi desenvolvido com o uso do Carbon Fields.
-Indispensável o Start Guide para um projeto do zero. Tenha o Composer instalado para rodar o comando:
+Indispensável o Start Guide para um projeto do zero. Tenha o Composer instalado para rodar o comando: composer require htmlburger/carbon-fields
 
 Start guido do Carbon Fields: https://docs.carbonfields.net/quickstart.html
 
